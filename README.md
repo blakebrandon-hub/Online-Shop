@@ -5,9 +5,7 @@ This project integrates Stripe Checkout, offering a secure and efficient payment
 ## 🌟 Features
 
 - **Secure Payments:** Seamless integration with Stripe Checkout for secure transactions.
-- **Product Catalog:** Browse products with descriptions and pricing.
-- **Product Filtering:** Easily filter products based on categories directly from the navigation bar.
-- **Responsive Design:** Clean and responsive UI for optimal viewing on various devices.
+- **Product Catalog:** Browse products with images, descriptions and pricing.
 
 ## 🛠️ Technologies Used
 
