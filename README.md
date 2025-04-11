@@ -7,6 +7,10 @@ This project integrates Stripe Checkout, offering a secure and efficient payment
 - **Secure Payments:** Seamless integration with Stripe Checkout for secure transactions.
 - **Product Catalog:** Browse products with images, descriptions and pricing.
 
+## 🚀 Live Demo
+
+🛒 Visit the store: [Online Shop](https://online-shop-example-805474abb1a5.herokuapp.com/)
+
 ## 🛠️ Technologies Used
 
 - **Backend:** Django (Python)
