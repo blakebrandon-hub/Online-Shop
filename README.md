@@ -2,6 +2,9 @@
 
 This project integrates Stripe Checkout, offering a secure and efficient payment gateway. The user-friendly interface allows customers to easily purchase products. Please note that this is a demonstration project and not intended for actual commercial use.
 
+![shop](https://github.com/user-attachments/assets/35256f80-7ec5-4dc8-90d7-b05f9a1937d4)
+
+
 ## 🌟 Features
 
 - **Secure Payments:** Seamless integration with Stripe Checkout for secure transactions.
