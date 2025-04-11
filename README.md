@@ -1,4 +1,4 @@
-# 🛒 Simple Shop
+# 🛒 Online Shop
 
 This project integrates Stripe Checkout, offering a secure and efficient payment gateway. The user-friendly interface allows customers to easily purchase products. Please note that this is a demonstration project and not intended for actual commercial use.
 
